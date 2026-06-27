@@ -43,6 +43,7 @@ export const projects: Project[] = [
     status: "Live",
     visibility: "public",
     githubUrl: "https://github.com/hajun-myoung/jogyo",
+    liveUrl: "https://jogyo.vercel.app",
     featured: true,
   },
   {
@@ -53,6 +54,7 @@ export const projects: Project[] = [
     tags: ["React", "Firebase", "Firestore", "Public Forms", "Church Tech"],
     status: "Built",
     visibility: "private",
+    liveUrl: "https://jy-workation.web.app",
     featured: true,
   },
   {
@@ -60,7 +62,13 @@ export const projects: Project[] = [
     slug: "karj",
     description:
       "A private LMS enhancement project built around Campaignus, adding course progress tracking and automated certificate generation through Firebase Functions.",
-    tags: ["Firebase Functions", "LMS", "Automation", "Certificate", "Campaignus"],
+    tags: [
+      "Firebase Functions",
+      "LMS",
+      "Automation",
+      "Certificate",
+      "Campaignus",
+    ],
     status: "Private Client Work",
     visibility: "private",
     featured: true,
@@ -86,6 +94,7 @@ export const projects: Project[] = [
     status: "Built",
     visibility: "public",
     githubUrl: "https://github.com/hajun-myoung/ta-ticket",
+    liveUrl: "https://ta-ticket.web.app",
     featured: true,
   },
   {
@@ -116,6 +125,7 @@ export const projects: Project[] = [
     tags: ["React", "Firebase", "Storage", "PDF Viewer"],
     status: "Built",
     visibility: "private-or-redacted",
+    liveUrl: "https://qa-image.web.app",
     featured: true,
   },
 ];

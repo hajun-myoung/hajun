@@ -98,7 +98,7 @@ export const content = {
         "기술 스택보다 중요한, 누군가의 문제를 이해하고 실제로 사용할 수 있는 형태로 끝까지 만든 경험",
       links: {
         github: "GitHub",
-        live: "Live Demo",
+        live: "사이트 보기",
         withheld: "개인정보와 보안을 위해 링크를 공개하지 않습니다.",
       },
       items: {
@@ -338,7 +338,7 @@ export const content = {
         "The strongest signal is not a stack list. It is the pattern of shipping useful software for people who need it to work.",
       links: {
         github: "GitHub",
-        live: "Live Demo",
+        live: "View Site",
         withheld: "Links withheld for privacy and security.",
       },
       items: {
